@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechStore - E-commerce Web Application
 
 A modern e-commerce web application built with Flask, DynamoDB, and AWS Elastic Beanstalk. This application demonstrates user registration, authentication, and a sample e-commerce interface.
@@ -266,3 +267,6 @@ For support and questions:
 - Create an issue in the repository
 - Check the AWS documentation for Elastic Beanstalk and DynamoDB
 - Review the Flask documentation for web framework questions 
+=======
+# elastic-beanstalk-ecommerce-app
+>>>>>>> d89ff78641029e00cb2dbeba9cfef085ec0495e2
